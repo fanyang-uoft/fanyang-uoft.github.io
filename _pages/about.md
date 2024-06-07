@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at University of Toronto, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang). Before that, I received my M.Eng. degree in Electronics and Communication Engineering from Tsinghua University in 2022, and my B.Eng. degree in Telecommunication Engineering from Sun Yat-sen University in 2019.
+I am currently a Ph.D. student at University of Toronto, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang). Before that, I received my M.Eng. degree in Electronics and Communication Engineering from Tsinghua University in 2022, supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/), and my B.Eng. degree in Telecommunication Engineering from Sun Yat-sen University in 2019, supervised by [Prof. Xiang Chen](https://www.i3c-sysu.cn/).
 
 A data-driven personal website
 ======
