@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fan Yang (阳帆)"
 title_separator          : "-"
 name                     : &name "Fan Yang (阳帆)"
-description              : &description "PhD student, University of Toronto"
+description              : &description "Ph.D. student, University of Toronto"
 url                      : https://fanyang-uoft.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Fan Yang (阳帆)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, University of Toronto"
+  bio              : "Ph.D. student, University of Toronto"
   employer         : # "University of Toronto"
   location         : "Toronto, Canada"
   uri              : # URL
