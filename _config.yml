@@ -25,8 +25,8 @@ author:
   name             : "Fan Yang (阳帆)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, University of Toronto"
-  employer         : "University of Toronto"
-  location         : # "Toronto, Canada"
+  employer         : # "University of Toronto"
+  location         : "Toronto, Canada"
   uri              : # URL
   email            : "yangf19@tsinghua.org.cn" 
 
