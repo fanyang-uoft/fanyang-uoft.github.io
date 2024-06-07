@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Fan Yang (阳帆)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Fan Yang (阳帆)"
+description              : &description "PhD student, University of Toronto"
 url                      : https://fanyang-uoft.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
