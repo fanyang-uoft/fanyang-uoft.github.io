@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am currently a Ph.D. student at University of Toronto, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang). Before that, I received my M.Eng. degree in Electronics and Communication Engineering from Tsinghua University in 2022, supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/), and my B.Eng. degree in Telecommunication Engineering from Sun Yat-sen University in 2019, supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/).
+I am currently a Ph.D. student at [University of Toronto](https://www.utoronto.ca), supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang). Before that, I received my M.Eng. degree in Electronics and Communication Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en) in 2022, supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/), and my B.Eng. degree in Telecommunication Engineering from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen) in 2019, supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/).
 
 My research interests include wireless communications and physical-layer security.
 
