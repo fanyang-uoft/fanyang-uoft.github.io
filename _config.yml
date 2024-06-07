@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Fan Yang (阳帆)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student"
+  bio              : "PhD student, University of Toronto"
   employer         : "University of Toronto"
-  location         : "Toronto, Canada"
+  location         : # "Toronto, Canada"
   uri              : # URL
   email            : "yangf19@tsinghua.org.cn" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4437-8027"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Fan-Yang-579"
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/fan-yang-791b1b199/"
+  linkedin         : "https://www.linkedin.com/in/fan-yang-791b1b199"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
