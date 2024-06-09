@@ -13,9 +13,9 @@ I am currently a Ph.D. student in the [Department of Electrical & Computer Engin
 
 My research interests include wireless communications and physical-layer security.
 
-Publications
-===========
-Journal Papers
+Publications  
+=========== 
+Journal Papers  
 --------------
 1. [**Physical-Layer Security for Indoor VLC Wiretap Systems Under Multipath Reflections**](https://ieeexplore.ieee.org/abstract/document/9834293)  
 **Fan Yang**, Jingjing Wang, Yuhan Dong  
@@ -28,8 +28,7 @@ IEEE Wireless Communications Letters (WCL), 2022
 1. [**Artificial Noise Design in Time Domain for Indoor SISO DCO-OFDM VLC Wiretap Systems**](https://ieeexplore.ieee.org/document/9512495)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Jinguo Quan, Yuhan Dong  
 Journal of Lightwave Technology(JLT), 2021  
-
-Conference Papers
+Conference Papers  
 ----------------
 1. [**Nonlinear HPA Impact on Artificial Noise Aided MISO Secure Systems**](https://ieeexplore.ieee.org/document/9500801)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Yuhan Dong  
