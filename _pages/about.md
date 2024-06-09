@@ -13,14 +13,13 @@ I am currently a Ph.D. student in the [Department of Electrical & Computer Engin
 
 My research interests include wireless communications and physical-layer security.
 
-&nbsp;
 
 ***
 
 <a id="publications"></a>Publications  
 =========== 
 
-&nbsp;&nbsp; Journal Papers  
+&nbsp; Journal Papers  
 --------------
 1. [**Physical-Layer Security for Indoor VLC Wiretap Systems Under Multipath Reflections**](https://ieeexplore.ieee.org/abstract/document/9834293)  
 **Fan Yang**, Jingjing Wang, Yuhan Dong  
