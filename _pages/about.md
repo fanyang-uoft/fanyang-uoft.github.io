@@ -27,7 +27,8 @@ IEEE Wireless Communications Letters (WCL), 2022
 
 1. [**Artificial Noise Design in Time Domain for Indoor SISO DCO-OFDM VLC Wiretap Systems**](https://ieeexplore.ieee.org/document/9512495)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Jinguo Quan, Yuhan Dong  
-Journal of Lightwave Technology(JLT), 2021  
+Journal of Lightwave Technology(JLT), 2021
+
 Conference Papers  
 ----------------
 1. [**Nonlinear HPA Impact on Artificial Noise Aided MISO Secure Systems**](https://ieeexplore.ieee.org/document/9500801)  
