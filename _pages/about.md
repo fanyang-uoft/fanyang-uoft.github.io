@@ -19,6 +19,7 @@ My research interests include wireless communications and physical-layer securit
 
 Publications  
 =========== 
+## <a id="publications"></a>Publications
 
 &nbsp;&nbsp; Journal Papers  
 --------------
