@@ -17,8 +17,8 @@ Publications
 ===========
 Journal
 -------
-Physical-Layer Security for Indoor VLC Wiretap Systems Under Multipath Reflections  
-Fan Yang, Jingjing Wang, Yuhan Dong  
+[Physical-Layer Security for Indoor VLC Wiretap Systems Under Multipath Reflections](https://ieeexplore.ieee.org/abstract/document/9834293)  
+**Fan Yang**, Jingjing Wang, Yuhan Dong  
 IEEE Transactions on Wireless Communications (TWC), 2022  
 
 Getting started
