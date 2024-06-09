@@ -15,14 +15,11 @@ My research interests include wireless communications and physical-layer securit
 
 Publications
 ===========
-
 Journal
 -------
-
-
-
-
-
+Physical-Layer Security for Indoor VLC Wiretap Systems Under Multipath Reflections
+Fan Yang, Jingjing Wang, Yuhan Dong
+IEEE Transactions on Wireless Communications (TWC), 2022
 
 Getting started
 ======
