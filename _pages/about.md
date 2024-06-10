@@ -33,7 +33,7 @@ IEEE Wireless Communications Letters (WCL), 2022
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Jinguo Quan, Yuhan Dong  
 Journal of Lightwave Technology (JLT), 2021
 
-### &nbsp; <font size="4">Conference Papers</font>  
+### &nbsp; <font size="5">Conference Papers</font>  
 1. [**Nonlinear HPA Impact on Artificial Noise Aided MISO Secure Systems**](https://ieeexplore.ieee.org/document/9500801)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Yuhan Dong  
 IEEE International Conference on Communications (ICC), 2021  
