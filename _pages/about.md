@@ -40,28 +40,27 @@ Journal of Lightwave Technology (JLT), 2021
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Yuhan Dong  
 IEEE International Conference on Communications (ICC), 2021  
 
-***
-
 &nbsp;
+
+***
 
 <a id="honors"></a>Honors  
 =========== 
 * Outstanding Thesis Award, Tsinghua University, 2022  
 * National Scholarship for Graduate Students, Tsinghua University, 2021
 * First Prize for the Undergraduate Electronics Design Contest, Sun Yat-sen University, 2015
-  
-***
 
 &nbsp;
+
+***
 
 <a id="cv"></a>CV  
 =========== 
 
 The [PDF](/files/paper1.pdf) version of my curriculum vitae as of June 2024  
 
+&nbsp;
 
 ***
-
-&nbsp;
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=YI4W7N92JDJp63cFEmDM6AwMfauFz-0AFSzB5B0BjSk'></script>
