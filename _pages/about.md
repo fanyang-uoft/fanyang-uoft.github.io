@@ -23,7 +23,7 @@ My research interests include wireless communications, digital signal processing
 ### &nbsp; <font size="5">Journal Papers</font>  
 1. [**Physical-Layer Security for Indoor VLC Wiretap Systems Under Multipath Reflections**](https://ieeexplore.ieee.org/abstract/document/9834293)  
 **Fan Yang**, Jingjing Wang, Yuhan Dong  
-<font size="5">Journal Papers</font>  IEEE Transactions on Wireless Communications (TWC), 2022  
+IEEE Transactions on Wireless Communications (TWC), 2022  
 
 1. [**Joint Probabilistic Shaping and Beamforming Scheme for MISO VLC Systems**](https://ieeexplore.ieee.org/document/9646252)  
 **Fan Yang**, Yuhan Dong  
@@ -33,7 +33,7 @@ IEEE Wireless Communications Letters (WCL), 2022
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Jinguo Quan, Yuhan Dong  
 Journal of Lightwave Technology (JLT), 2021
 
-### &nbsp; Conference Papers  
+### &nbsp; <font size="4">Conference Papers</font>  
 1. [**Nonlinear HPA Impact on Artificial Noise Aided MISO Secure Systems**](https://ieeexplore.ieee.org/document/9500801)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Yuhan Dong  
 IEEE International Conference on Communications (ICC), 2021  
