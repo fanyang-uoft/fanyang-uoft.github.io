@@ -49,7 +49,7 @@ IEEE International Conference on Communications (ICC), 2021
   
 ***
 
-<a id="cv"></a>Curriculum Vitae  
+<a id="cv"></a>CV  
 =========== 
 
-The [PDF](/files/paper1.pdf) version of my CV as of June 2024
+The [PDF](/files/paper1.pdf) version of my curriculum vitae as of June 2024
