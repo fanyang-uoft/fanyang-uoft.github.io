@@ -43,7 +43,8 @@ IEEE International Conference on Communications (ICC), 2021
 <a id="honors"></a>Honors  
 =========== 
 * Outstanding Thesis Award, Tsinghua University, 2022  
-* National Scholarship for Graduate Students, Tsinghua University, 2021  
+* National Scholarship for Graduate Students, Tsinghua University, 2021
+* First Prize for the Undergraduate Electronics Design Contest, Sun Yat-sen University, 2015  
 
 Getting started
 ======
