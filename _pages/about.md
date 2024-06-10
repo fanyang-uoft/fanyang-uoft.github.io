@@ -36,7 +36,7 @@ Journal of Lightwave Technology (JLT), 2021
 ### &nbsp; Conference Papers  
 1. [**Nonlinear HPA Impact on Artificial Noise Aided MISO Secure Systems**](https://ieeexplore.ieee.org/document/9500801)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Yuhan Dong  
-IEEE International Conference on Communications (ICC), 2021  
+IEEE International Conference on Communications (ICC), 2021
 
 &nbsp;
 
@@ -55,7 +55,7 @@ IEEE International Conference on Communications (ICC), 2021
 <a id="cv"></a>CV  
 =========== 
 
-The [PDF](/files/paper1.pdf) version of my curriculum vitae as of June 2024  
+The [PDF](/files/paper1.pdf) version of my curriculum vitae as of June 2024
 
 &nbsp;
 
