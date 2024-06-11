@@ -61,4 +61,4 @@ The [PDF](/files/paper1.pdf) version of my curriculum vitae as of June 2024
 
 ***
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d1d1d1&w=414&t=tt&d=YI4W7N92JDJp63cFEmDM6AwMfauFz-0AFSzB5B0BjSk&co=ffffff&ct=000000&cmo=ffbe80&cmn=ff4d4d'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d1d1d1&w=414&t=tt&d=YI4W7N92JDJp63cFEmDM6AwMfauFz-0AFSzB5B0BjSk&co=ffffff&ct=000000&cmo=ff7c00&cmn=ff7c00'></script>
