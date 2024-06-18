@@ -55,7 +55,7 @@ My research interests include wireless communications, digital signal processing
 <a id="cv"></a>CV  
 =========== 
 
-The [PDF](/files/paper1.pdf) version of my curriculum vitae as of June 2024
+The [PDF](/files/CV_Fan_Yang.pdf) version of my curriculum vitae as of June 2024
 
 &nbsp;
 
