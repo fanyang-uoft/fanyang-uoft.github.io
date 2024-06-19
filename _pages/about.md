@@ -16,11 +16,11 @@ My research interests include wireless communications, digital signal processing
 Education
 ---------
 * **Doctor of Philosophy student - Electrical and Computer Engineering**  
-  [University of Toronto](https://www.utoronto.ca), 2024 - present, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)
+  [University of Toronto](https://www.utoronto.ca), supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang), 2024 - present
 * **Master of Engineering - Electronics and Communication Engineering**  
-  [Tsinghua University](https://www.tsinghua.edu.cn/en), 2019 - 2022, supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)
+  [Tsinghua University](https://www.tsinghua.edu.cn/en), supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/), 2019 - 2022
 * **Bachelor of Engineering - Telecommunication Engineering**  
-  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), 2015 - 2019, supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/)
+  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/), 2015 - 2019
 
 
 &nbsp;
