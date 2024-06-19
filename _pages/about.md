@@ -13,6 +13,15 @@ I am currently a Ph.D. student in the [Department of Electrical & Computer Engin
 
 My research interests include wireless communications, digital signal processing and physical-layer security.
 
+Education
+---------
+* [University of Toronto](https://www.utoronto.ca)  
+  Doctor of Philosophy student in Electrical and Computer Engineering, 2024 - present  
+* [Tsinghua University](https://www.tsinghua.edu.cn/en)  
+  Master of Engineering - Electronics and Communication Engineering, 2019 - 2022  
+* [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)  
+  Bachelor of Engineering - Telecommunication Engineering, 2015 - 2019
+
 &nbsp;
   
 ***
