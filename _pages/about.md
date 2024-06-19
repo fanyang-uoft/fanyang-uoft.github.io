@@ -21,6 +21,10 @@ Education
   [Tsinghua University](https://www.tsinghua.edu.cn/en), supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/), 2019 - 2022
 * **Bachelor of Engineering - Telecommunication Engineering**  
   [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/), 2015 - 2019
+* <div style="display: flex; justify-content: space-between;">
+  <span>**Doctor of Philosophy student - Electrical and Computer Engineering**</span>
+  <span>2024 - present</span>
+  </div>
 
 
 &nbsp;
