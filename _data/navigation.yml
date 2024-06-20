@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: /#about
 
+  - title: "Eduaction"
+    url: /#education
+    
   - title: "Publications"
     url: /#publications
 
