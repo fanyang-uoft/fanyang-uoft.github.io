@@ -14,7 +14,7 @@ I am currently a Ph.D. student in the [Department of Electrical & Computer Engin
 My research interests include wireless communications, digital signal processing and physical-layer security.
 
 ### &nbsp; Education
-* **Ph.D.** student in Electrical and Computer Engineering  
+* **Ph.D. student** in Electrical and Computer Engineering  
   [University of Toronto](https://www.utoronto.ca), Canada, 2024 - present  
   **Supervisor:** [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
 * **M.Eng.** in Electronics and Communication Engineering  
