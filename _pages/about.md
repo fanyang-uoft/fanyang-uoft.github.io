@@ -24,15 +24,15 @@ Education
 
 
 ### &nbsp; Education
-* **Doctor of Philosophy student** -- Electrical and Computer Engineering  (2024 - present)  
-  [University of Toronto](https://www.utoronto.ca), Canada   
-  Supervisor: [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
-* **Master of Engineering** -- Electronics and Communication Engineering  (2019 - 2022)  
-  [Tsinghua University](https://www.tsinghua.edu.cn/en), China   
-  Supervisor: [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)  (2015 - 2019)  
-* **Bachelor of Engineering** -- Telecommunication Engineering  
-  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), China   
-  Supervisor: [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
+* **Doctor of Philosophy student**      
+  [University of Toronto](https://www.utoronto.ca), Canada, 2024 - present   
+  Electrical and Computer Engineering, Supervisor: [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
+* **Master of Engineering**     
+  [Tsinghua University](https://www.tsinghua.edu.cn/en), China, 2019 - 2022     
+  Electronics and Communication Engineering, Supervisor: [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)   
+* **Bachelor of Engineering**    
+  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), China, 2015 - 2019     
+  Telecommunication Engineering, Supervisor: [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
 
 
 &nbsp;
