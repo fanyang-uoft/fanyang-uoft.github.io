@@ -24,11 +24,11 @@ Education
 
 
 ### &nbsp; Education
-* **[University of Toronto](https://www.utoronto.ca)**, 2024 - present  
+* **[University of Toronto](https://www.utoronto.ca)**, Canada, 2024 - present  
   **Doctor of Philosophy student**, Electrical and Computer Engineering, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
-* **[Tsinghua University](https://www.tsinghua.edu.cn/en)**, 2019 - 2022  
+* **[Tsinghua University](https://www.tsinghua.edu.cn/en)**, China, 2019 - 2022  
   **Master of Engineering**, Electronics and Communication Engineering, supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)  
-* **[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)**, 2015 - 2019  
+* **[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)**, China, 2015 - 2019  
   **Bachelor of Engineering**, Telecommunication Engineering, supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
 
 
