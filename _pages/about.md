@@ -14,25 +14,6 @@ I am currently a Ph.D. student in the [Department of Electrical & Computer Engin
 My research interests include wireless communications, digital signal processing and physical-layer security.
 
 ### &nbsp; Education
-* **Ph.D. student** in Electrical and Computer Engineering  
-  [University of Toronto](https://www.utoronto.ca), Canada, 2024 - present  
-  Supervisor: [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
-* **M.Eng.** in Electronics and Communication Engineering  
-  [Tsinghua University](https://www.tsinghua.edu.cn/en), China, 2019 - 2022  
-  Supervisor: [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)  
-* **B.Eng.** in Telecommunication Engineering  
-  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), China, 2015 - 2019  
-  Supervisor: [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
-
-### &nbsp; Education
-* **[University of Toronto](https://www.utoronto.ca)**, Canada, 2024 - present  
-  Doctor of Philosophy student in Electrical and Computer Engineering, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
-* **[Tsinghua University](https://www.tsinghua.edu.cn/en)**, China, 2019 - 2022  
-  Master of Engineering in Electronics and Communication Engineering, supervised by [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)  
-* **[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen)**, China, 2015 - 2019  
-  Bachelor of Engineering in Telecommunication Engineering, supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
-
-### &nbsp; Education
 * **[University of Toronto](https://www.utoronto.ca)**, Canada, 2024 - present  
   Ph.D. student in Electrical and Computer Engineering, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
 * **[Tsinghua University](https://www.tsinghua.edu.cn/en)**, China, 2019 - 2022  
