@@ -24,10 +24,10 @@ Education
 
 
 ### &nbsp; Education
-* **Doctor of Philosophy student**, Electrical and Computer Engineering
+* **Doctor of Philosophy student**, Electrical and Computer Engineering  
   [University of Toronto](https://www.utoronto.ca), Canada, 2024 - present  
   Supervisor: [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
-* **Master of Engineering**, Electronics and Communication Engineering
+* **Master of Engineering**, Electronics and Communication Engineering  
   [Tsinghua University](https://www.tsinghua.edu.cn/en), China, 2019 - 2022  
   Supervisor: [Prof. Yuhan Dong](https://www.sigs.tsinghua.edu.cn/dyh_en/)  
 * **Bachelor of Engineering**, Telecommunication Engineering  
