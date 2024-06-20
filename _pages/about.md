@@ -22,12 +22,9 @@ My research interests include wireless communications, digital signal processing
   B.Eng. in Telecommunication Engineering, supervised by [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
 
 ### &nbsp; Education
-* **Ph.D. student** in Electrical and Computer Engineering  
-  University of Toronto, Canada, 2024 - present  
-* **M.Eng.** in Electronics and Communication Engineering  
-  Tsinghua University, China, 2019 - 2022  
-* **B.Eng.** in Telecommunication Engineering  
-  Sun Yat-sen University, China, 2015 - 2019  
+* **Ph.D. student** in Electrical and Computer Engineering, University of Toronto, Canada, 2024 - present  
+* **M.Eng.** in Electronics and Communication Engineering, Tsinghua University, China,  2022  
+* **B.Eng.** in Telecommunication Engineering, Sun Yat-sen University, China, 2019  
 
 
 
