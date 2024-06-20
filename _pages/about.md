@@ -23,8 +23,7 @@ Education
   Supervisor: [Prof. Xiang Chen](http://www.i3c-sysu.cn/)  
 
 
-Education
----------
+### &nbsp; Education
 * **[University of Toronto](https://www.utoronto.ca)**, 2024 - present  
   **Doctor of Philosophy student**, Electrical and Computer Engineering, supervised by [Prof. Ben Liang](https://www.comm.utoronto.ca/~liang)  
 * **[Tsinghua University](https://www.tsinghua.edu.cn/en)**, 2019 - 2022  
