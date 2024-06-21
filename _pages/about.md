@@ -57,10 +57,6 @@ My research interests include wireless communications, digital signal processing
 
 The [PDF](/files/CV_Fan_Yang.pdf) version of my curriculum vitae as of June 2024
 
-&nbsp;
-  
-***
-
 ### <a id="education"></a>Education
 * **Ph.D. student** in Electrical and Computer Engineering, [University of Toronto](https://www.utoronto.ca), Canada  
 * **M.Eng.** in Electronics and Communication Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en), China,  2022  
