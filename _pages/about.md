@@ -13,11 +13,6 @@ I am currently a Ph.D. student in the [Department of Electrical & Computer Engin
 
 My research interests include wireless communications, digital signal processing and physical-layer security.
 
-* **Ph.D. student** in Electrical and Computer Engineering, [University of Toronto](https://www.utoronto.ca), Canada  
-* **M.Eng.** in Electronics and Communication Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en), China,  2022  
-* **B.Eng.** in Telecommunication Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), China, 2019  
-
-
 &nbsp;
   
 ***
@@ -42,6 +37,18 @@ My research interests include wireless communications, digital signal processing
 1. [**Nonlinear HPA Impact on Artificial Noise Aided MISO Secure Systems**](https://ieeexplore.ieee.org/document/9500801)  
 **Fan Yang**, Kai Zhang, Yongzhi Zhai, Yuhan Dong  
 *IEEE International Conference on Communications (ICC), 2021*
+
+&nbsp;
+
+***
+
+<a id="experience"></a>Experience
+=========== 
+### Education
+* **Ph.D. student** in Electrical and Computer Engineering, [University of Toronto](https://www.utoronto.ca), Canada  
+* **M.Eng.** in Electronics and Communication Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en), China,  2022  
+* **B.Eng.** in Telecommunication Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), China, 2019  
+
 
 &nbsp;
 
