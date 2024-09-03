@@ -21,7 +21,7 @@ My research interests include wireless communications, digital signal processing
 =========== 
 
 ### &nbsp; Education
-* **PhD student** in Electrical and Computer Engineering, [University of Toronto](https://www.utoronto.ca), Canada, Ongoing   
+* **Ph.D.** in Electrical and Computer Engineering, [University of Toronto](https://www.utoronto.ca), Canada, **Ongoing**   
 * **Master's** in Electronics and Communication Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en), China,  2022  
 * **Bachelor's** in Telecommunication Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen), China, 2019  
 
