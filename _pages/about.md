@@ -73,4 +73,5 @@ The [PDF](/files/CV_Fan_Yang.pdf) version of my curriculum vitae as of June 2024
 
 ***
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=d1d1d1&w=512&t=n&d=BIeknCqU8SqESkXsWA8swfxV1iJbGDBQnTB0JVLfiNM&co=ffffff&ct=000000&cmo=ff7c00&cmn=ff7c00'></script>
+<a href="https://www.visitordots.com/details/vd_6B_eRBvO0-uz_497N4zao8me"><img src="https://map.visitordots.com/vmap/231654370191053.png" alt="Visitor map" style="display:block;width:100%;max-width:420px;height:auto;border:0"></a>
+<a href="https://www.visitordots.com/create?widget=map&amp;theme_key=white-gray-dots&amp;dot_color=visitor-dots&amp;dot_shape=circle&amp;flag_theme=light&amp;columns=4&amp;maximum=24&amp;layout=footer&amp;from=widget">Get a free visitor map like this</a>
