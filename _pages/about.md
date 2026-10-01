@@ -73,4 +73,4 @@ The [PDF](/files/CV_Fan_Yang.pdf) version of my curriculum vitae as of June 2024
 
 ***
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BIeknCqU8SqESkXsWA8swfxV1iJbGDBQnTB0JVLfiNM&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=d1d1d1&w=512&t=n&d=BIeknCqU8SqESkXsWA8swfxV1iJbGDBQnTB0JVLfiNM&co=ffffff&ct=000000&cmo=ff7c00&cmn=ff7c00'></script>
