@@ -73,4 +73,4 @@ The [PDF](/files/CV_Fan_Yang.pdf) version of my curriculum vitae as of June 2024
 
 ***
 
-<a href="http://s01.flagcounter.com/more/MGR"><img src="https://s01.flagcounter.com/mini/MGR/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=d1d1d1&w=512&t=n&d=BIeknCqU8SqESkXsWA8swfxV1iJbGDBQnTB0JVLfiNM&co=ffffff&ct=000000&cmo=ff7c00&cmn=ff7c00'></script>
